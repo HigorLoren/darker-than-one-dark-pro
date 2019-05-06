@@ -18,5 +18,9 @@
                 "path": "./themes/Darker than One Dark Pro-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/HigorLoren/darker-than-one-dark-pro.git"
+      }
 }
