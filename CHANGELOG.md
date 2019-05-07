@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "darker-than-one-dark-pro" extension will be documented in this file.
+## [ 0.0.1 | 2019.05.07 ]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Only theme description changes
 
-## [Unreleased]
-
-- Initial release
+- Better screenshots in README
+- A nice dark icon
+- Theme keywords for the vscode store

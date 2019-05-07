@@ -10,6 +10,16 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "keywords": [
+      "higor loren",
+      "one dark",
+      "onedark",
+      "darker",
+      "darker one dark",
+      "theme",
+      "atom"
+    ],
     "contributes": {
         "themes": [
             {
