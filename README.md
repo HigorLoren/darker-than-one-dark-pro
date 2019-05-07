@@ -4,7 +4,7 @@ A dark theme inspired by the [One Dark Pro Vivid](https://marketplace.visualstud
 
 ## Screenshot
 
-![Screenshot 1](https://github.com/HigorLoren/darker-than-one-dark-pro/blob/master/screenshot_1.jpg?raw=true)
+![Screenshot 1](https://github.com/HigorLoren/darker-than-one-dark-pro/blob/master/screenshot__1.jpg?raw=true)
 
 ![Screenshot 2](https://github.com/HigorLoren/darker-than-one-dark-pro/blob/master/screenshot_2.jpg?raw=true)
 
