@@ -1,5 +1,9 @@
 # Change Log
 
+## [ 0.2.1 | 2019.05.13 ]
+
+- Corrected README images path
+
 ## [ 0.2.0 | 2019.05.13 ]
 
 - Dropdown more visible and lighter.
