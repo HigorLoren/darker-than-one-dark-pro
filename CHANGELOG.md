@@ -1,6 +1,6 @@
 # Change Log
 
-## [ 0.1.0 | 2019.05.13 ]
+## [ 0.2.0 | 2019.05.13 ]
 
 - Dropdown more visible and lighter.
 - Removed the blue tone from the background of the tabs and from the file list select.
@@ -15,7 +15,7 @@
 
 - Better assets organization, now they have a folder.
 
-## [ 0.0.1 | 2019.05.07 ]
+## [ 0.1.0 | 2019.05.07 ]
 
 Only theme description changes
 
