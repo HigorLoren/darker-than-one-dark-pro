@@ -1,8 +1,14 @@
 # Change Log
 
+## [ 0.2.2 | 2019.05.13 ]
+
+- Editor empty background less blue
+- Terminal background less blue.
+- Menu background now is gray
+
 ## [ 0.2.1 | 2019.05.13 ]
 
-- Corrected README images path
+- Corrected README images path.
 
 ## [ 0.2.0 | 2019.05.13 ]
 
@@ -21,8 +27,8 @@
 
 ## [ 0.1.0 | 2019.05.07 ]
 
-Only theme description changes
+Only theme description changes.
 
-- Better screenshots in README
-- A nice dark icon
-- Theme keywords for the vscode store
+- Better screenshots in README.
+- A nice dark icon.
+- Theme keywords for the vscode store.
