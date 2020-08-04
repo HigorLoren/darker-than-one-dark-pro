@@ -1,5 +1,10 @@
 # Change Log
 
+## [ 0.3.0 | 2019.07.30 ]
+
+- Selection border dimed
+- New constrast theme
+
 ## [ 0.2.2 | 2019.05.13 ]
 
 - Editor empty background less blue

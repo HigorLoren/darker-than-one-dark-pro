@@ -2,7 +2,7 @@
     "name": "darker-than-one-dark-pro",
     "displayName": "Darker than One Dark Pro",
     "description": "A dark theme inspired by the One Dark Pro Vivid, good bye blue.",
-    "version": "0.2.2",
+    "version": "0.3.0",
     "publisher": "higorLoren",
     "engines": {
         "vscode": "^1.33.0"
@@ -26,6 +26,11 @@
                 "label": "Darker than One Dark Pro",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Darker than One Dark Pro-color-theme.json"
+            },
+            {
+                "label": "Darker than One Dark Pro (Contrast)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darker than One Dark Pro (Contrast)-color-theme.json"
             }
         ]
     },
