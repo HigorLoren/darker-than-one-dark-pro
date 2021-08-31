@@ -1,5 +1,12 @@
 # Change Log
 
+## [ 0.4.0 | 2021.08.30 ]
+
+- Remove unnecessary code
+- Armonize colors in constrast version
+- Better highlight the differences in the editor
+- Darker status bar color during debugging
+
 ## [ 0.3.0 | 2019.07.30 ]
 
 - Selection border dimed
