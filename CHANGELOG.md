@@ -1,5 +1,9 @@
 # Change Log
 
+## [ 0.4.0 | 2022.01.30 ]
+
+- Add Dark Editor Version
+
 ## [ 0.4.0 | 2021.08.30 ]
 
 - Remove unnecessary code
